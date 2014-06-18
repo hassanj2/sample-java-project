@@ -1,4 +1,3 @@
 public class B{
-int a=90;
-
+int a= 12;
 }
